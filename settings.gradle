@@ -1,2 +1,3 @@
-include ':app', ':catapi'
+//include ':app', ':catapi'
+include ':catapi'
 rootProject.name='Cat API'
